@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SSHMS"
+  id="myeclipse.1403583982840"
+  context-root="/SSHMS"
+  j2ee-spec="6.0"
+  archive="SSHMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
